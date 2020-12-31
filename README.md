@@ -26,9 +26,9 @@ Visual studio should have documentation readily available to build project with 
 
 ## Commands to install via vcpkg (WINDOWS64)
 
-```.\lib\vcpkg\bootstrap-vcpkg.bat```
-```.\lib\vcpkg\vcpkg integrate install```
-```.\lib\vcpkg\vcpkg install sfml --triplet=x64-windows```
+```.\lib\vcpkg\bootstrap-vcpkg.bat```  
+```.\lib\vcpkg\vcpkg integrate install```  
+```.\lib\vcpkg\vcpkg install sfml --triplet=x64-windows```  
 
 # Demo
 ![image](https://user-images.githubusercontent.com/46156230/103430657-29d7c800-4b7b-11eb-8f5a-f7c2416068b3.png)
