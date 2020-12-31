@@ -1,7 +1,8 @@
 # InfestationZ 
 ![GameImage](https://raw.githubusercontent.com/Moltenfuzzy/InfestationZ/master/content/game_thumbnail.PNG)
 
-Top down zombie shooter created by [Alan](https://github.com/achau6), [Jimmy](https://github.com/Burniee), and [Kent](https://github.com/Moltenfuzzy)
+Top down zombie shooter created by [Alan](https://github.com/achau6), [Jimmy](https://github.com/Burniee), and [Kent](https://github.com/Moltenfuzzy)  
+Original repository at https://github.com/achau6/zombie-game
 
 # Installation/Usage
 To run this game you will need a C++ compiler and cmake. I used MSVC - amd64
