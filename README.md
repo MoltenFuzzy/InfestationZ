@@ -24,7 +24,7 @@ Visual studio should have documentation readily available to build project with 
 # Dependencies 
  * SFML
 
-## Commands to install via vcpkg (WINDOWS64)
+## Commands to install via vcpkg (FOR A WINDOWS64 COMPILER)
 
 ```.\lib\vcpkg\bootstrap-vcpkg.bat```  
 ```.\lib\vcpkg\vcpkg integrate install```  
