@@ -19,7 +19,7 @@ To build using cmake tools, press F5 and select build, or press the build button
 Then press on the triangle to run the project. 
 
 If you are not using vscode or visual studio, you will need to figure out how to build using cmake in your environment.  
-Visual studio should have documentation readily available to build project with cmake. 
+Visual studio should have documentation readily available to build a project with cmake. 
 
 # Dependencies 
  * SFML
